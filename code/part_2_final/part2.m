@@ -1,0 +1,10 @@
+
+
+
+
+%% Part 1 Figures and Command Line Outputs
+Part2_a
+Ass2_p2_mesh_density_real
+Ass2_p2_bottle_neck_narrow_width_real
+Ass2_p2_bottle_neck_narrow_hight_real
+Ass2_p2_bottle_barrier_conductivity_real
